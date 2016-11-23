@@ -1,0 +1,2 @@
+# MultipeerConnectivityDemo
+iOS被遗忘的近距离通讯利器-MultipeerConnectivity
